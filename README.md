@@ -20,11 +20,11 @@ Enumerable and Collections
 
 `zip(*other_arrays)` → new_array
 
-: When no block given, returns a new Array new_array of size self.size whose elements are Arrays.
+:  When no block given, returns a new Array new_array of size self.size whose elements are Arrays.
 
 `rotate(count)` → new_array
 
-: Returns a new Array formed from self with elements rotated from one end to the other.
+:  Returns a new Array formed from self with elements rotated from one end to the other.
 
 ## Methods used from from the course
 
